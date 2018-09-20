@@ -1,0 +1,31 @@
+_repo: Les-apotres-Histoire-des-origines-du-christianisme-volume-2_53082
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Renan, Ernest
+    aliases:
+    - Renan, Joseph Ernest
+    - Renan, Ernestos
+    birthdate: 1823
+    deathdate: 1892
+    gutenberg_agent_id: '4527'
+    url: http://www.gutenberg.org/2009/agents/4527
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Renan
+description: ''
+gutenberg_bookshelf: FR Philosophie, Religion et Morale
+gutenberg_issued: '2016-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53082'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Apostles'
+- !lcc 'BS'
+- GITenberg
+title: 'Les apôtres
+
+  Histoire des origines du christianisme, volume 2'
+url: http://www.gutenberg.org/ebooks/53082
